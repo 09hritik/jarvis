@@ -1,0 +1,23 @@
+personal Ai JARVIS
+
+Basic Features 
+    1.listen ----  Done
+    
+    2.speak -----  Done
+
+    3. Have Conversations ---- Done
+
+Advanced Features
+    1. Alaram 
+
+    2. Summarize meanings ----Done
+
+    3. hot word Detection
+        eg. wake up JARVIS
+
+    4. Remainder
+
+    5. 
+
+Gand Fhaad Features
+    1. 
